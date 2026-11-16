@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+.vscode/
+*.iml
+.dart_tool/
+.packages
+build/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+example/ios/Pods/
+example/ios/.symlinks/
+example/android/.gradle/
+example/android/local.properties
+**/mapping.txt
+*.dSYM/
